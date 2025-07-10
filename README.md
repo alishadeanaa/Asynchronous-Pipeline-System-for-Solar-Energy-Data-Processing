@@ -1,0 +1,1 @@
+A cost-effective asynchronous ETL pipeline for processing solar and weather data using RabbitMQ and Celery. Includes: Data ingestion & feature engineering ML-based prediction of PV output (XGBoost, RMSE: 0.0289) Weather clustering via K-Means ("Clear", "Cloudy", "Rainy") Built with open-source tools to support scalable, low-cost solar energy analytics in Indonesia.
